@@ -1,21 +1,20 @@
-# Color Picker
+# Color Taxonomy
 Provide a way for users to easily filter by color, based on dominant colours within the selected featured image.
 
-=== Color Taxonomy ===
-Plugin Name: Color Taxonomy
-Plugin URI:	 
-Description: Provide a way for users to easily filter by color, based on dominant colours within the selected featured image.
-Version:     1.4
-Author:      Edd Hurst
-Author URI:  https://eddhurst.co.uk
-License:     GPL3
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
-Text Domain: color-taxonomy
-Domain Path: /languages
-Requires at least: 4.0
-Tested up to: 4.7.3
-Stable tag: 1.4
-
+=== Color Taxonomy ===<br />
+Plugin Name: Color Taxonomy<br />
+Plugin URI:	 <br />
+Description: Provide a way for users to easily filter by color, based on dominant colours within the selected featured image.<br />
+Version:     1.4<br />
+Author:      Edd Hurst<br />
+Author URI:  https://eddhurst.co.uk<br />
+License:     GPL3<br />
+License URI: https://www.gnu.org/licenses/gpl-3.0.html<br />
+Text Domain: color-taxonomy<br />
+Domain Path: /languages<br />
+Requires at least: 4.0<br />
+Tested up to: 4.7.3<br />
+Stable tag: 1.4<br />
 
 Generate a list of dominant colours on any uploaded image and save to attachment image post_meta. Automatically compares dominant colours to a swatch of pre-filled colours and finds the closest match. Upon saving a post, the featured image will be analysed and these colours will be used to add a custom taxonomy to the post, allowing all post types to be searched for by colour.
 
