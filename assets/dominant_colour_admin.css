@@ -1,0 +1,7 @@
+.color-taxonomy--squares {
+	box-sizing: border-box;
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	margin-right:3px;
+}
