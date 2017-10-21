@@ -1,9 +1,6 @@
-# Color Picker
-Provide a way for users to easily filter by color, based on dominant colours within the selected featured image.
-
 === Color Taxonomy ===
 Plugin Name: Color Taxonomy
-Plugin URI:	 
+Plugin URI:	 https://developer.wordpress.org/plugins/color-taxonomy
 Description: Provide a way for users to easily filter by color, based on dominant colours within the selected featured image.
 Version:     1.4
 Author:      Edd Hurst
@@ -19,12 +16,12 @@ Stable tag: 1.4
 
 Generate a list of dominant colours on any uploaded image and save to attachment image post_meta. Automatically compares dominant colours to a swatch of pre-filled colours and finds the closest match. Upon saving a post, the featured image will be analysed and these colours will be used to add a custom taxonomy to the post, allowing all post types to be searched for by colour.
 
-# Description
+== Description ==
 Generate a list of dominant colours on any uploaded image and save to attachment image post_meta. Automatically compares dominant colours to a swatch of pre-filled colours and finds the closest match.
 
 Upon saving a post, the featured image will be analysed and these colours will be used to add a custom taxonomy to the post, allowing all post types to be searched for by colour.
 
-# Installation
+== Installation ==
 The colour palette, as well as the swatch-friendly colour palette are automatically saved on upload and edit to post meta.
 
 Values are saved in an array, under the post_meta values of ‘raw_color_palette’ and ‘closest_color_palette’. The values for each are “hex” and “rob”, with the closest_color_palette meta value having an extra value of “name”.
@@ -33,7 +30,7 @@ The hex returns as a string, including the #.
 
 RGB returns as an array, with key 0 as red, 1 as green, and 2 as blue.
 
-# Changelog
+== Changelog ==
 
 1.4
 ---
