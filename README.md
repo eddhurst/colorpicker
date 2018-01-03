@@ -5,7 +5,7 @@ Provide a way for users to easily filter by color, based on dominant colours wit
 Plugin Name: Color Taxonomy<br />
 Plugin URI:	 <br />
 Description: Provide a way for users to easily filter by color, based on dominant colours within the selected featured image.<br />
-Version:     1.4<br />
+Version:     1.5<br />
 Author:      Edd Hurst<br />
 Author URI:  https://eddhurst.co.uk<br />
 License:     GPL3<br />
